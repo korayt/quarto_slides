@@ -1,0 +1,39 @@
+---
+title: "Question 10"
+format: revealjs
+editor: visual
+editor_options: 
+  chunk_output_type: inline
+---
+
+## Best Git Commands
+
+-   git add: Allows us to add files to the staging area.
+-   git commit: Allows us to commit our changes.
+-   git push: Allows us to push our changes to the remote repository.
+
+## Best Terminal Commands
+
+-   cd: Allows us to change our directory.
+-   ls: Allows us to list files in the current directory.
+
+## Code Block 1
+
+Assignment operator
+
+```{r echo=TRUE}
+x <- 1
+y <- 2
+z <- x + y
+z
+```
+
+## Code Block 2
+
+Basic for loop
+
+```{r echo=TRUE}
+for (i in 1:3){
+  print(i)
+}
+```
